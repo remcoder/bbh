@@ -5,7 +5,7 @@ body
   font-size: 18px;
   font-family: 'Buda', arial, serif;
   line-height: 120%;
-  color: #440044;
+  color: #202;
   z-index: -2;
   background-color: #3a5f69;
 }
@@ -94,18 +94,36 @@ li
   padding-bottom:20px;
 }
 
+.nav .lang-switch a
+{
+  text-decoration: none;
+}
+
+.nav .lang-switch img
+{
+  margin-right: 10px;
+}
+
+.lang-switch-label
+{
+  position: relative;
+  top: -2px;
+  text-decoration: underline;
+  font-size: 90%;
+}
+
 .nav ul
 {
   list-style: none;
 }
 
 
-.nav-link
+.nav a
 {
-  color: #440044;
+  color: #202;
 }
 
-a.nav-link:hover
+.nav a:hover
 {
   color: #884488;
 }

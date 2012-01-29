@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <page>
-  <description>Balance By Hands is gespecialiseerd in het geven van de klassieke ontspanningsmassages, sportmassages, hotstone massages en magnetiseren.</description>
-  <img src="img/small/homepage.jpg" alt="robert aan het werk"/>
+  <description>Balance By Hands specialises in classic relaxation massage, sport massage, chair massage, hot stone massage and magnetism therapy.</description>
+  <img src="img/small/homepage.jpg" alt="Robert at work"/>
   <quote>We make a living by what<br/>
   we get, but we make a life by<br/>
   what we give
@@ -10,12 +10,12 @@
   <story>
     <h1>Balance By Hands</h1>
 
-    <p>We leven in een snelle, drukke en veeleisende maatschappij en dat kan stress veroorzaken. Dit kan zich uiten in lichamelijke of geestelijke klachten. Om dit te voorkomen en/of te beperken wil men graag tijd voor ontspanning om te ontstressen en terug in balans te raken. Door het terugvinden van de persoonlijke balans zal een groot deel van de lichamelijke en geestelijke klachten verminderen en hopelijk verdwijnen.</p>
+    <p>We live in an increasingly busy and hectic society, and this can easily lead to stress. Symptoms can typically manifest themselves via physical or mental ailments. To prevent or reduce stress, people require sufficient time to relax and enjoy activities that help them to maintain balance. By regaining your personal balance, you will be able to get rid of or reduce physical and/or mental ailments. </p>
 
-    <p>Bij Balance By Hands krijgt u de kans zich bewuster te maken van het bovengenoemde en vervolgens met behulp van handen uw persoonlijke balans terug te vinden.</p>
+    <p>Balance By Hands offers you the opportunity to make yourself aware of the above-mentioned points, and will help you to regain your personal balance.</p>
 
     <p>
-    Balance By Hands is gespecialiseerd in het geven van de <a href="massages.html#ontspanningsmassages">klassieke ontspanningsmassages</a>, <a href="massages.html#sportmassages">sportmassages</a>, <a href="massages.html#stoelmassages">stoelmassages</a>, <a href="massages.html#hotstone">hotstone massages</a> en <a href="magnetiseren.html">magnetiseren</a>.</p>
+    Balance By Hands specialises in <a href="/en/massages.html#ontspanningsmassages">classic relaxation massage</a>, <a href="/en/massages.html#sportmassages">sport massage</a>, <a href="massages.html#stoelmassages">chair massages</a>, <a href="/en/massages.html#hotstone">hot stone massage</a> en <a href="/en/magnetiseren.html">magnetism therapy</a>.</p>
 
 
   </story>

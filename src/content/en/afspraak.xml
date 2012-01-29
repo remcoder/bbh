@@ -1,38 +1,37 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <page>
-  <title>Afspraak maken</title>
-  <description>Welke voorbereidingen kan je treffen voordat je naar een afspraak komt?</description>
+  <title>Appointments</title>
+  <description>What preparations can you make before you make an appointment to come</description>
   <intro></intro>
   <story>
-    <h1>Afspraak maken</h1>
+    <h1>Appointments</h1>
 
-    <p class="address">Bel of mail<br/>
+    <p class="address">To make an appointment, please call or e-mail:<br/>
     070 - 888 26 07<br/>
     06-48 38 79 14<br/>
     <a href='mailto:info@balancebyhands.nl'>info@balancebyhands.nl</a><br/><br/>
     <span class="warning">
-      GEEN SEX OF EROTIEK
+      THIS IS NOT A SEXUAL OR EROTIC SERVICE
     </span>
     </p>
 
-    <h2>Voorbereiding</h2>
-    <p>Uw voorbereiding kan zorgen voor een beter resultaat! Hieronder een aantal stappen op een rijtje.</p>
+    <h2>Preparation</h2>
+    <p>Please take the following steps to prepare for your massage.</p>
     <ul>
-      <li>Van tevoren thuis een douche nemen ter bevordering van de hygiëne.</li>
+      <li>For hygienic reasons, you may want to take a shower before your appointment.</li>
 
-      <li>Kom niet te gehaast voor een behandeling op een afspraak, maak bijvoorbeeld vooraf een wandeling van een paar minuten.</li>
+      <li>Make sure that you do not need to hurry to your appointment. To ensure that you are not rushed, you might consider a quick walk before your appointment.</li>
 
-      <li>Uw telefoon uitzetten voordat u de massagepraktijk binnenkomt, zodat u niet wordt gestoord tijdens de behandeling.</li>
-
+      <li>Switch off your telephone before entering the massage practice. This will prevent any disruption during treatment.</li>
     </ul>
-      <p>Na afloop krijgt u de gelegenheid om even bij te komen, eventueel een glas water drinken voor een betere afvoer van afvalstoffen.</p>
 
-      <h2>Annuleren van uw afspraak</h2>
+    <p>After the treatment you will have the opportunity to regain yourself. You may want to have a glass of water as this will help to get rid of any toxins.</p>
 
-      <p>Als u verhinderd bent voor uw afspraak, geef dit dan zo spoedig mogelijk door.
-      Annueren uiterlijk <em>24 uur</em> van tevoren. Als u niet <em>24 uur</em> van tevoren annuleert, ben ik helaas genoodzaakt de kosten alsnog in rekening te brengen. Uitzonderingen hierop worden in onderling overleg besproken.</p>
+    <h2>Cancelling an appointment</h2>
 
-      <h2>Betalen</h2>
-      <p>Alle behandelingen graag contant en bij voorkeur gepast betalen. Ik beschik niet over pin- of creditcardfaciliteiten.</p>
+    <p>If you are unable to attend your appointment, please notify me as soon as possible. I require at least <em>24 hours</em>’ notice. If you do not cancel your appointment at least <em>24 hours</em> in advance, you will be charged a fee. Exceptional cases will be resolved in consultation between both parties.</p>
+
+    <h2>Payment</h2>
+    <p>Only cash payments are accepted. Please pay with the exact amount if possible. I do not have bank card or credit card facilities.</p>
   </story>
 </page>

@@ -63,15 +63,6 @@
         <xsl:if test="story">
           <div class='page bubble'>
 
-            <xsl:choose>
-              <xsl:when test="$lang = 'en'">
-                <a class="lang-switch" href="/{$page_id}.html"><img src="https://www.nwbbank.com/templates/common/images/flag_dutch.gif"/></a>
-              </xsl:when>
-              <xsl:otherwise>
-                <a class="lang-switch" href="/en/{$page_id}.html"><img src="http://www.zoneprojects.com/images/flag_english.gif"/></a>
-              </xsl:otherwise>
-            </xsl:choose>
-
             <xsl:if test="(img/@src and img/@src != '') or (quote != '')">
               <div class='page-header'>
                 <xsl:if test="img/@src and img/@src != ''">
@@ -92,7 +83,7 @@
             </xsl:if>
             <div class='story'>
               <xsl:copy-of select="story/*" />
-                <div class="infinity">&#x221e; <span class="footer-text">Massage &amp; magnetisme praktijk Balance By Hands te Voorburg</span> &#x221e;</div>
+                <div class="infinity">&#x221e; <span class="footer-text">Massage &amp; magnetism Practice Balance By Hands in Voorburg</span> &#x221e;</div>
             </div>
           </div>
         </xsl:if>

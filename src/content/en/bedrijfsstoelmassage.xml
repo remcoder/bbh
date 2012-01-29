@@ -1,33 +1,34 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <page>
-  <title>Bedrijfsstoelmassage</title>
-  <description>Stoelmassage op lokatie voor bedrijven</description>
+  <title>On-site chair massage</title>
+  <description>Chair massage for companies by location</description>
   <story>
-    <h1>Bedrijfsstoelmassage</h1>
-    <h3>De voordelen van bedrijfsstoelmassage voor uw organisatie</h3>
+    <h1>On-site chair massage</h1>
+    <h3>The benefits for your organisation:</h3>
     <ul>
-      <li>verbetert de motivatie van uw medewerkers</li>
-      <li>verbetert de werksfeer </li>
-      <li>verlaagt het ziekteverzuim</li>
-      <li>is kostenbesparend</li>
-      <li>werkt preventief en curatief</li>
-      <li>is fiscaal aantrekkelijk.</li>
+      <li>Improves employee motivation</li>
+      <li>Improves the working atmosphere</li>
+      <li>Reduces workplace absenteeism</li>
+      <li>Cost effective</li>
+      <li>Has a preventative and curative effect</li>
+      <li>Tax deductible</li>
     </ul>
-    <p>
-      <h2>Fiscale voordelen</h2>
-      <h4>Stoelmassage en aftrek loonbelasting</h4>
-      <p>Als wordt voldaan aan een aantal voorwaarden worden de stoelmassages door de belastingdienst als een vrije verstrekking beschouwd en is daarmee aftrekbaar van de loonbelasting. Ook kan de btw in mindering worden gebracht op de omzetbelasting. De voorwaarden waaraan moet worden voldaan zijn: </p>
-    <ul>
-      <li>De stoelmassages zijn opgenomen in het Arboplan en maken daar in redelijkheid deel van uit </li>
-      <li>De stoelmassage vindt plaats tijdens werktijd </li>
-      <li>De werknemer is geen eigen bijdrage verschuldigd voor de stoelmassage </li>
-      <li>Er is geen aanmerkelijke privébesparing van de werknemer </li>
-  </ul>
-     <h4>Aftrek omzetbelasting (btw)</h4>
-    <p>Als wordt voldaan aan dezelfde voorwaarde als voor de vrije verstrekking, kan de in rekening gebrachte btw als voorbelasting in mindering worden gebracht op de omzetbelasting.</p> <p>P.S. Kijk eens op de site van de belastingdienst voor de fiscale voordelen van stoelmassage.</p>
 
-    <h2>Heeft uw organisatie interesse?</h2>
-     <p>Vraag nu een gratis demonstratie aan of mail naar <a href="mailto:info@balancebyhands.nl">info@balancebyhands.nl</a> voor een vrijblijvende offerte op maat.</p>
-    </p>
+
+      <h2>Tax benefits</h2>
+      <h4>Chair massage and deduction of wage tax</h4>
+      <p>If the company complies with a number conditions, the tax authorities will consider the chair massages to be ‘benefits in kind” and therefore deductible from the wage tax. The BTW (Dutch VAT) is also deductible from the turnover tax. The company must comply with the following conditions:</p>
+    <ul>
+      <li>The chair massages are laid down in the company’s rules concerning working conditions</li>
+      <li>The chair massages are given during working hours</li>
+      <li>The employee does not owe a personal contribution for the chair massage</li>
+      <li>There is no substantial personal saving on the part of the employee </li>
+    </ul>
+
+    <h4>Deduction of turnover tax (BTW or Dutch VAT)</h4>
+    <p>If the company complies with the same conditions that apply to ‘benefits in kind’, then the BTW (Dutch VAT) can be deducted from the turnover tax.</p> <p>For further details regarding tax benefits for chair massages please consult the website of the tax authorities.</p>
+
+   <h2>Is your organisation interested?</h2>
+    <p>Request a free demonstration, or simply send an e-mail to <a href="mailto:info@balancebyhands.nl">info@balancebyhands.nl</a> to receive a free customised offer.</p>
   </story>
 </page>

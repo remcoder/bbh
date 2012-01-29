@@ -1,30 +1,30 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <page>
-  <title>Tarieven voor massage aan huis</title>
-  <description>Bestel een massage op locatie.</description>
+  <title>Rates for massage on location</title>
+  <description>Order a massage on location</description>
   <story>
-    <h1>Tarieven voor massage aan huis</h1>
+    <h1>Rates for massage on location</h1>
     <p>
-      Dit zijn de aangepaste tarieven voor een massage- of magnetiserende behandeling op locatie. Voor alles wordt gezorgd en is inbegrepen in de prijs: btw, voorrijkosten, massagetafel, laken, handdoeken en eventueel massageolie.
+      The rates listed below apply to massage or magnetism treatment on location. The prices are inclusive of: BTW (Dutch VAT), call-out charges, a massage table, a sheet, towels and massage oil.
     </p>
 
-    <p class="note">» Zoekt u de <a href="tarieven.html">standaardtarieven</a>?</p>
+    <p class="note">» Looking for the <a href="/en/tarieven.html">standard rates</a>?</p>
 
-    <h2>Klassieke ontspanningsmassage</h2>
+    <h2>Classic relaxation massage</h2>
 
     <table class='prices'>
       <tr>
-        <th>Duur</th>
-        <th>Tarief *</th>
-        <th>5-massageskaart *</th>
-        <th>Bijzonderheden</th>
+        <th>Duration</th>
+        <th>Rate *</th>
+        <th>5 sessions card *</th>
+        <th>Details</th>
       </tr>
 
       <tr>
         <td>60 min</td>
         <td>€ 50,-</td>
         <td>€ 250,-</td>
-        <td>2 <a href="#deelmassages">deelmassages</a></td>
+        <td>2 <a href="#deelmassages">area specific massages</a></td>
       </tr>
 
       <tr>
@@ -35,21 +35,21 @@
       </tr>
     </table>
 
-    <h2>Sportmassage</h2>
+    <h2>Sport massage</h2>
 
     <table class='prices'>
       <tr>
-        <th>Duur</th>
-        <th>Tarief *</th>
-        <th>5-massageskaart *</th>
-        <th>Bijzonderheden</th>
+        <th>Duration</th>
+        <th>Rate *</th>
+        <th>5 sessions card *</th>
+        <th>Details</th>
       </tr>
 
       <tr>
         <td>60 min</td>
         <td>€ 60,-</td>
         <td>€ 300,-</td>
-        <td>2 <a href="#deelmassages">deelmassages</a></td>
+        <td>2 <a href="#deelmassages">area specific massages</a></td>
       </tr>
 
       <tr>
@@ -60,58 +60,59 @@
       </tr>
     </table>
 
-    <h2>Stoelmassage</h2>
+    <h2>Chair massage</h2>
 
     <table class='prices'>
       <tr>
-        <th>Duur</th>
-        <th>Tarief *</th>
-        <th>5-massageskaart *</th>
-        <th>Bijzonderheden</th>
+        <th>Duration</th>
+        <th>Rate *</th>
+        <th>5 sessions card *</th>
+        <th>Details</th>
       </tr>
 
       <tr>
         <td>30 min </td>
         <td>€ 42,-</td>
         <td>€ 210,-</td>
-        <td>Geen olie. Je kan je kleding aanhouden.</td>
+        <td>No oil is used. You will remain fully clothed.</td>
       </tr>
     </table>
-    <p>Voor bedrijven vraag naar een <a href="tarieven.html">offerte op maat</a>.</p>
+    <p>Companies can request a  <a href="/en/tarieven.html">customised offer</a>.</p>
 
-    <h2>Magnetiseren</h2>
+    <h2>Magnetism therapy</h2>
 
     <table class='prices'>
       <tr>
-        <th>Duur</th>
-        <th>Tarief *</th>
-        <th>Bijzonderheden</th>
+        <th>Duration</th>
+        <th>Rate *</th>
+        <th>Details</th>
       </tr>
       <tr>
         <td>60 min</td>
         <td>€ 40,-</td>
-        <td>Alle kledingstukken kunt u aanhouden, behalve schoenen.</td>
+        <td>You will remain fully clothed but will be required to take off your shoes.</td>
       </tr>
     </table>
 
-    <p class="note">* Er zijn aantrekkelijke kortingen bij twee of meer aansluitende massages op dezelfde locatie.</p>
+    <p class="note">* Attractive discounts are offered for two or more consecutive massages at the same location.</p>
 
-    <p class="note">De bedragen zijn inclusief reiskosten en BTW in en om Voorburg. Geldig van 1-1-2012 t/m 31-12-2012. <a href="mailto:info@balancebyhands.nl">Informeer voor de mogelijkheden buiten Voorburg</a>, samen kunnen we dan kijken naar een aangepast tarief voor een offerte op maat.</p>
+    <p class="note">The amounts are including travel expenses in the surrounding area of Voorburg and BTW (Dutch VAT). This applies until 1 June  2011. <a href="mailto:info@balancebyhands.nl">Enquire about the possibilities outside of Voorburg</a>. Options include a customised offer based on a special rate.</p>
 
-      <h2 id="deelmassages">Deelmassages</h2>
-      <p>Een deelmassage is een ontspannings- of sportmassage met specifieke aandachtspunten. Deelmassages gaan in overleg met de klant om die spieren in het lichaam, waar de spanningen zitten optimaal te kunnen behandelen. U kunt kiezen voor één of twee deelmassages van bijvoorbeeld de onderstaande lichaamsgebieden.</p>
 
-      <ul>
-        <li>Hoofd, nek en schouders</li>
-        <li>Schouders, rug en armen</li>
-        <li>Onderrug, benen (achterkant) en kuiten</li>
-        <li>Benen (voor- en achterkant) en voeten</li>
-        <li>Heupen</li>
-        <li>Buik en borst bovenzijde/decolleté</li>
-      </ul>
+    <h2 id="deelmassages">Area-specific massage</h2>
+    <p>An area-specific massage is a form of relaxation or sports massage whereby the therapist focuses specifically on certain parts of the body. Area-specific massages are performed in consultation with the client to treat those specific muscles in the body that are suffering from tension. Clients can choose one or two area-specific massages of the following body areas.</p>
 
-      <h2 id="full-balance">Full Balance massage</h2>
-      <p>De meest uitgebreide massage bestaande uit alle hier bovengenoemde onderdelen van massage.</p>
+    <ul>
+      <li>Head, neck and shoulders</li>
+      <li>Shoulders, back and arms</li>
+      <li>Lower back, (back of the) legs and calves</li>
+      <li>Legs (front and back) and feet</li>
+      <li>Hips</li>
+      <li>Stomach and top part of chest or décolletage</li>
+    </ul>
+
+    <h2 id="full-balance">Full Balance massage</h2>
+    <p>The most elaborate form of massage consists of all above-mentioned parts of a massage.</p>
 
   </story>
 </page>

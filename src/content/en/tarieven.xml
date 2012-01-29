@@ -1,39 +1,41 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <page>
-  <title>Tarieven</title>
-  <description>Wat kost een enkele massage? Wat kost een 5 massageskaart?</description>
+  <title>Rates</title>
+  <description>How much does a single massage cost? How much does a 5 massage card cost?</description>
   <story>
-    <h1>Tarieven</h1>
-    <p class="note">» Een massage op locatie is ook mogelijk: <a href="op_locatie.html">bekijk de aangepaste tarieven</a></p>
-    <h2>Introductie massage</h2>
+    <h1>Rates</h1>
+    <p class="note">» Massages on location are also available: <a href="/en/op_locatie.html">please see the special rates</a></p>
+
+    <h2>Introductory massage</h2>
     <table class='prices'>
       <tr>
-        <th>Duur</th>
-        <th>Tarief *</th>
-        <th colspan="2">Bijzonderheden</th>
+        <th>Duration</th>
+        <th>Rates *</th>
+        <th colspan="2">Details</th>
       </tr>
 
       <tr>
         <td>30 min </td>
         <td>€ 25,-</td>
-        <td  colspan="2">1 <a href="#deelmassages">deelmassage</a></td>
+        <td colspan="2">1 <a href="#deelmassages">area-specific massages</a></td>
       </tr>
 
     </table>
-    <h2>Klassieke ontspanningsmassage</h2>
+
+    <h2>Classic relaxation massage</h2>
     <table class='prices'>
       <tr>
-        <th>Duur</th>
-        <th>Tarief *</th>
-        <th>5 massageskaart *</th>
-        <th>Bijzonderheden</th>
+        <th>Duration</th>
+        <th>Rate *</th>
+        <th>5 sessions card *</th>
+        <th>Details</th>
       </tr>
 
       <tr class='alt'>
         <td>60 min</td>
         <td>€ 40,-</td>
         <td>€ 200,-</td>
-        <td>2 <a href="#deelmassages">deelmassages</a></td>
+        <td>2 <a href="#deelmassages">area-specific massages</a></td>
       </tr>
 
       <tr>
@@ -44,31 +46,31 @@
       </tr>
     </table>
 
-    <p class="note">» zie ook de <a href="#korting">kortingsregeling</a></p>
+    <p class="note">» Please see the <a href="#korting">discount scheme</a></p>
 
 
-    <h2>Sportmassage</h2>
+    <h2>Sport massage</h2>
 
     <table class='prices'>
       <tr>
-        <th>Duur</th>
-        <th>Tarief *</th>
-        <th>5 massageskaart *</th>
-        <th>Bijzonderheden</th>
+        <th>Duration</th>
+        <th>Rate *</th>
+        <th>5 sessions card *</th>
+        <th>Details</th>
       </tr>
 
       <tr>
         <td>30 min </td>
         <td>€ 40,-</td>
         <td>€ 200,-</td>
-        <td>1 <a href="#deelmassages">deelmassage</a></td>
+        <td>1 <a href="#deelmassages">area-specific massage</a></td>
       </tr>
 
       <tr class='alt'>
         <td>60 min</td>
         <td>€ 50,-</td>
         <td>€ 250,-</td>
-        <td>2 <a href="#deelmassages">deelmassages</a></td>
+        <td>2 <a href="#deelmassages">area-specific massages</a></td>
       </tr>
 
       <tr>
@@ -78,34 +80,34 @@
         <td><a href="#full-balance">Full Balance massage</a></td>
       </tr>
     </table>
-    <p class="note">» zie ook de <a href="#korting">kortingsregeling</a></p>
+    <p class="note">» Please see the <a href="#korting">discount scheme</a></p>
 
-    <h2>Stoelmassage</h2>
+    <h2>Chair massage</h2>
 
     <table class='prices'>
       <tr>
-        <th>Duur</th>
-        <th>Tarief *</th>
-        <th>5 massageskaart *</th>
-        <th>Bijzonderheden</th>
+        <th>Duration</th>
+        <th>Rate *</th>
+        <th>5 sessions card *</th>
+        <th>Details</th>
       </tr>
 
       <tr>
         <td>30 min </td>
         <td>€ 35,-</td>
         <td>€ 175,-</td>
-        <td>Geen olie. Je kan je kleding aanhouden.</td>
+        <td>No oil is used. You will remain fully clothed.</td>
       </tr>
     </table>
-    <p>Voor bedrijven vraag naar een <a href="tarieven.html">offerte op maat</a>.</p>
+    <p>Companies can request a <a href="tarieven.html">customised offer</a>.</p>
 
-    <h2>Hotstone massage</h2>
+    <h2>Hot stone massage</h2>
 
     <table class='prices'>
       <tr>
-        <th>Duur</th>
-        <th>Tarief *</th>
-        <th>5 massageskaart *</th>
+        <th>Duration</th>
+        <th>Rate *</th>
+        <th>Details</th>
       </tr>
       <tr>
         <td>60 min</td>
@@ -113,50 +115,50 @@
         <td>€ 225,-</td>
       </tr>
     </table>
-    <p class="note">» zie ook de <a href="#korting">kortingsregeling</a></p>
+    <p class="note">» Please see the <a href="#korting">discount scheme</a></p>
 
-    <h2>Magnetiseren</h2>
+    <h2>Magnetism therapy</h2>
 
     <table class='prices'>
       <tr>
-        <th>Duur</th>
-        <th>Tarief *</th>
-        <th>Bijzonderheden</th>
+        <th>Duration</th>
+        <th>Rate *</th>
+        <th>Details</th>
       </tr>
       <tr>
         <td>60 min</td>
         <td>€ 30,-</td>
-        <td>Alle kledingstukken kunt u aanhouden, behalve schoenen.</td>
+        <td>You will remain fully clothed but will be required to take off your shoes.</td>
       </tr>
     </table>
-    <p class="note">» zie ook de <a href="#korting">kortingsregeling</a></p>
-    <p class="note">* Alle bovengenoemde tarieven zijn inclusief BTW en onder voorbehoud. Geldig van 1-1-2012 t/m 31-12-2012.</p>
+    <p class="note">» Please see the <a href="#korting">discount sheme</a></p>
+    <p class="note">* All above-mentioned rates are including BTW (Dutch VAT) and subject to reservations. Prices are applicable until 31 Decemeber 2012.</p>
 
-    <h2 id="deelmassages">Deelmassages</h2>
-    <p>Een deelmassage is een ontspannings- of sportmassage met specifieke aandachtspunten. Deelmassages gaan in overleg met de klant om die spieren in het lichaam, waar de spanningen zitten optimaal te kunnen behandelen. U kunt kiezen voor 1 of 2 deelmassages van bijvoorbeeld de onderstaande lichaamsgebieden.</p>
+    <h2 id="deelmassages">Area-specific massages</h2>
+    <p>An area-specific massage is a form of relaxation or sports massage whereby the therapist focuses specifically on certain parts of the body. Area-specific massages are performed in consultation with the client to treat those specific muscles in the body that are suffering from tension. Clients can choose one or two area-specific massages of the following body areas.</p>
 
     <ul>
-      <li>Hoofd, nek en schouders</li>
-      <li>Schouders, rug en armen</li>
-      <li>Onderrug, benen (achterkant) en kuiten</li>
-      <li>Benen (voor- en achterkant) en voeten</li>
-      <li>Heupen</li>
-      <li>Buik en borst bovenzijde/decolleté</li>
+      <li>Head, neck and shoulders</li>
+      <li>Shoulders, back and arms</li>
+      <li>Lower back, (back of the) legs and calves</li>
+      <li>Legs (front and back) and feet</li>
+      <li>Hips</li>
+      <li>Stomach and top part of chest or décolletage</li>
     </ul>
 
     <h2 id="full-balance">Full Balance massage</h2>
-    <p>De meest uitgebreide massage bestaande uit alle hier bovengenoemde onderdelen van massage.</p>
+    <p>The most elaborate form of massage consists of all above-mentioned parts of the massage.</p>
 
-    <h2 id="korting">Korting</h2>
+    <h2 id="korting">Discount</h2>
     <ul>
-      <li>Bij de eerste kennismaking krijgt u € 5,- korting.</li>
-      <li>Eenmalig 10% korting op een 5-massageskaart als u iemand aanbrengt als klant.</li>
+      <li>You will receive a €5 discount with your first session.</li>
+      <li>If you bring in a new client, you will receive a once-only 10% discount on a 5 sessions card.</li>
     </ul>
 
-    <h2>Cadeaubonnen</h2>
-    <p>Een Balance By Hands Cadeaubon is een ideaal geschenk voor elke bijzondere gelegenheid. Vanaf € 25,-</p>
+    <h2>Gift vouchers</h2>
+    <p>A Balance By Hands gift voucher is the perfect present for any special occasion. Available from €25.</p>
 
-    <h2>5 massageskaart</h2>
-    <p>Bij aankoop van een 5 Massageskaart krijgt u de 6<sup>e</sup> behandeling gratis. Na afgifte een half jaar geldig.</p>
+    <h2>5 sessions card</h2>
+    <p>With every purchase of a 5 sessions card, you will receive the sixth treatment free of charge. The card is valid for up to six months after issue.</p>
   </story>
 </page>

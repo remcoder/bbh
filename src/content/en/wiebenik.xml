@@ -1,32 +1,28 @@
 <?xml version="1.0"?>
 <page>
-  <title>Wie ben ik?</title>
-  <description>Een kort uitleg over mijzelf</description>
-  <img src="img/robert_davinci_small.jpg" alt="Robert in de duinen"/>
-  <quote>ik ben een praktijk aan huis gestart omdat ik een eigen visie heb</quote>
+  <title>Wha am I?</title>
+  <description>A brief explanation about myself</description>
+  <img src="img/robert_davinci_small.jpg" alt="Robert in the dunes"/>
+  <quote>I started my practice because I have an own vision</quote>
   <story>
-    <h1>Wie ben ik?</h1>
-    <p>Mijn naam is Robert Geijp (geboren 2 februari 1978 te Leidschendam). Na het afronden van mijn opleiding als sportmasseur ben ik een massage- &amp; magnetismepraktijk aan huis begonnen.  Vervolgens een stoelmassagecursus gaan volgen. Daarnaast ben ik op dit moment sportverzorger van een voetbalteam in Leidschendam.</p>
+    <h1>Who am I?</h1>
+    <p>My name is Robert Geijp (born 2 February 1978 in Leidschendam). After obtaining a degree in sports massage therapy I started a massage &amp; magnetism practice. I subsequently took a course in chair massage therapy. I currently also work as a sports therapist for a football team in Leidschendam.</p>
 
     <ul>
-      <li><a href="http://www.nespg.nl/"><acronym title="Nederlandse Examenstichting in de Sport- &amp; Perimedische Gezondheidszorg">NESPG</acronym></a> Gediplomeerd (sport)masseur (opleidingsinstituut: Eerste NVVS te Rotterdam, <a href="http://www.eerste-nvvs.nl">www.eerste-nvvs.nl</a>)</li>
-      <li>Gecertificeerd stoelmasseur (opleidingsinstituut: Massage in Beweging te Alphen a/d Rijn, <a href="http://www.massageinbeweging.nl">www.massageinbeweging.nl</a>).</li>
+      <li><a href="http://www.nespg.nl/"><acronym title="Nederlandse Examenstichting in de Sport- &amp; Perimedische Gezondheidszorg">NESPG</acronym></a> Qualified (sports) masseur (educational institute: Eerste NVVS in Rotterdam, <a href="http://www.eerste-nvvs.nl">www.eerste-nvvs.nl</a>)</li>
+      <li>Certified chair masseur (educational institute: Massage in Beweging in Alphen a/d Rijn, <a href="http://www.massageinbeweging.nl">www.massageinbeweging.nl</a>).</li>
     </ul>
 
     <p class="educational-logo"><a href="http://www.nespg.nl/"><img id="NESPG_logo" title="Nederlandse Examenstichting in de Sport- &amp; Perimedische Gezondheidszorg" alt="NESPG logo" src="http://www.nespg.nl/images/nespg.jpg"></img></a>
     <a href="http://www.bms-belangenvereniging.nl/"><img src="http://www.bms-belangenvereniging.nl/logo/009428.gif" width="88" height="68" border="0" alt="Lid van de Belangenvereniging voor Beroepsbeoefenaars in de Massage- en Sportverzorgingbranche" /></a></p>
 
-    <h2>Eigen visie</h2>
-    <p>Vanuit mijn gevoel, met mijn handen en hart een bijdrage leveren aan de balans bij mensen, waardoor zij ontspannen en ontstressen / onthaasten, is datgene waar ik het liefst mee bezig ben.</p>
+    <h2>Own vision</h2>
+    <p>I want to contribute to helping people regain and/or maintain balance in their lives. By enabling them to calm down and relax, and thereby adding to the quality of their life. I aim to achieve this by applying my senses, and using my hands and heart. This is what I love doing most.</p>
 
-    <p>We leven tegenwoordig in een maatschappij waar alles snel en vlug moet, waardoor men de neiging heeft de balans los te laten die zo belangrijk is voor ieder mens.</p>
-    <p>We gunnen onszelf niet de tijd om stil te staan bij de dingen die we doen, de zaken die we moeten regelen en de opgroeiende kinderen.</p>
+    <p>In today’s society everything needs to be done fast. As a result, people tend to lose their balance. This can lead to a loss of well-being.</p>
 
-    <p>Om deze balans te kunnen houden, is het naar mijn idee van wezenlijk belang wel hierbij stil te staan. Doordat ik zelf in een dergelijke situatie terecht ben gekomen, ben ik gaan inzien hoe belangrijk deze balans is voor jezelf en de mensen om je heen.</p>
-  </story>
+    <p>We often do not take enough time to really enjoy ourselves and to focus on the things that we love to do, as well as other important aspects such as children who are growing up.</p>
 
-  <story lang="nl">
-    Who am I?
-My name is Robert Geijp (born 2 February 1978 in Leidschendam). After obtaining a degree in sports massage therapy I started a massage &amp; magnetism practice. I subsequently took a course in chair massage therapy. I currently also work as a sports therapist for a football team in Leidschendam.
+    <p>In order to maintain balance, I believe it is essential to reflect on such matters and to take time for yourself. By going through an unpleasant situation in my personal life, I learned just how important it is to maintain balance. And how your own behaviour effects others.</p>
   </story>
 </page>

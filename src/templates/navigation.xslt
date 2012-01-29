@@ -15,10 +15,10 @@
     <sitemap>
       <page id="index" title='Home' />
       <page id="massages" title='Massages' />
-      <page id="magnetiseren" title='Magnetiseren' title_en='Magnetize' />
+      <page id="magnetiseren" title='Magnetiseren' title_en='Magnetism therapy' />
       <page id="op_locatie" title='Massage aan huis' title_en='Massage at home' />
-      <page id="bedrijfsstoelmassage" title='Bedrijfsstoelmassage' title_en='Massage at the office' />
-      <page id="tarieven" title='Tarieven' title_en="Prices" />
+      <page id="bedrijfsstoelmassage" title='Bedrijfsstoelmassage' title_en='On-site chair massage' />
+      <page id="tarieven" title='Tarieven' title_en="Rates" />
       <page id="wiebenik" title='Wie ben ik?' title_en='Who am I?' />
       <page id="afspraak" title='Afspraak maken' title_en='Make an appointment' />
       <page id="contact-route" title='Contact &amp; Route' title_en='Contact info' />
@@ -31,22 +31,31 @@
 
     <div class='nav bubble'>
       <ul>
+
         <xsl:apply-templates mode="navigation" select="common:node-set($sitemap)/sitemap/*" />
+        <br/>
         <li>
-            <xsl:choose>
-              <xsl:when test="$lang = 'en'">
-                <a class="lang-switch" href="/{$page_id}.html"><img src="https://www.nwbbank.com/templates/common/images/flag_dutch.gif"/></a>
-                <a class="lang-switch" href="/{$page_id}.html">Nederlands</a>
-              </xsl:when>
-              <xsl:otherwise>
-                <a class="lang-switch" href="/en/{$page_id}.html"><img src="http://www.zoneprojects.com/images/flag_english.gif"/></a>
-                <a class="lang-switch" href="/en/{$page_id}.html">English</a>
-              </xsl:otherwise>
-            </xsl:choose>
+          <xsl:choose>
+            <xsl:when test="$lang = 'en'">
+              <a class="lang-switch" href="/{$page_id}.html">
+                <img width="30" height="18" src="/img/icons/dutch-flag.png"/>
+                <span class="lang-switch-label">Nederlands</span>
+              </a>
+            </xsl:when>
+            <xsl:otherwise>
+              <a class="lang-switch" href="/en/{$page_id}.html">
+                <img width="30" height="18" src="/img/icons/english-flag.gif"/>
+                <span class="lang-switch-label">English</span>
+              </a>
+            </xsl:otherwise>
+          </xsl:choose>
         </li>
+
       </ul>
     </div>
   </xsl:template>
+
+
 
   <xsl:template mode="navigation" match="sitemap/page">
     <xsl:variable name="selected" select="@id = $page_id"/>

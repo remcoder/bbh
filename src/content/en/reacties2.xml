@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <page xmlns:fb="http://www.facebook.com/2008/fbml">
-  <title>Reacties</title>
-  <description>Praat mee over Balance By Hands.</description>
+  <title>Reactions</title>
+  <description>Join the discussion about Balance By Hands.</description>
   <story>
-    <h1>Reacties</h1>
-    <p>Heb je een goede ervaring gehad bij Balance by Hands? Plaats dan een berichtje! Of misschien wil je een vraag stellen? Dat kan natuurlijk ook!</p>
+    <h1>Reactions</h1>
+    <p>Did you enjoy your treatment? Please leave a message. Feel free to ask any questions that you may have!</p>
     <div id="fb-root"></div>
-    <script src="http://connect.facebook.net/nl_NL/all.js#appId=142048845842814&amp;xfbml=1"></script>
+    <script src="http://connect.facebook.net/en_GB/all.js#appId=142048845842814&amp;xfbml=1"></script>
     <fb:comments class="comments" href="balancebyhands.nl" num_posts="100" width="500"></fb:comments>
 </story>
 </page>

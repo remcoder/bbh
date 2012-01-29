@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <page>
   <title>Massages</title>
-  <description>Alle soorten massages op een rijtje.</description>
+  <description>All types of massage at a glance</description>
   <img src="img/small/ontspanning.jpg" alt="massage"/>
   <quote>To keep the body in good health
   is a duty&#x2026;<br/> otherwise we shall not
@@ -10,36 +10,41 @@
   <quotee>Buddha</quotee>
   <story>
     <h1>Massages</h1>
-    <h2>Wat is klassieke ontspanningsmassage?</h2>
+    <h2>What is classic relaxation massage?</h2>
 
-    <p>Een klassieke ontspanningsmassage is een moment voor uzelf. Het maakt u bewust van de spanningen in uw lichaam. In de praktijk zijn er verschillende termen die gebruikt worden, zoals normale massage, ontspanningsmassage en therapeutische massage.</p>
+    <p>Take a moment for yourself and enjoy a classic relaxation massage. A massage will make you aware of and help to relieve tension in your body. This type of massage is commonly referred to as a normal massage, relaxation massage or therapeutic massage.</p>
 
-    <p>Deze vorm van massage is geschikt voor de bestrijding van fysieke (of psychische) spannings- en pijnklachten (stress, nekpijn, rugpijn, spierpijn), maar ook voor het onderhoud en balans van een gezond lichaam.</p>
-    <p>De strijkingen en knedingen van deze vorm van massage stimuleren de doorbloeding van de huid, het onderliggende bindweefsel en het spierweefsel. Hierdoor worden afvalstoffen sneller afgevoerd en kunnen voedingsstoffen diep in het weefsel doordringen.</p>
-    <p>De massage heeft in zijn geheel een heerlijke ontspannende werking op lichaam en geest.</p>
+    <p>This form of massage is used to overcome physical (or psychological) symptoms of tension and pain (stress, neck aches, backaches, and muscular pain), but also helps to maintain balance and a healthy body.</p>
 
-    <p>Desgewenst kan de massage steviger uitgevoerd worden (vraag dan naar een ‘stevige’ massage, ook wel actieve massage genoemd).</p>
+    <p>The therapist applies techniques such as kneading and massage strokes to stimulate the blood circulation of the skin, connective tissue and muscular tissue. This helps to remove toxins from the body faster, and allows nutrients to penetrate deep in the tissue.</p>
+
+    <p>Massage therapy has a relaxing effect on both the body and mind. If desired, you may request a firmer massage. This is commonly also referred to as an active massage.</p>
 
 
 
-    <h2 id="sportmassages">Wat is Sportmassage?</h2>
+    <h2 id="sportmassages">What is Sports massage?</h2>
 
-    <p><div class="fancybox-wrapper"><a class="fancybox" href="img/sport.jpg"><img class="ie-img-shadow" src="img/small/sport.jpg" alt="hotstone"></img><br/>+ groter</a></div>
-    Sportmassage is een vorm van massage ter preventie van blessures en/of spierpijn en ter bevordering van herstel na inspanning.</p>
+    <p><div class="fancybox-wrapper"><a class="fancybox" href="/img/sport.jpg"><img class="ie-img-shadow" src="/img/small/sport.jpg" alt="sports massage"></img><br/>+ enlarge</a></div>
+    Sports massage is a form of massage that is used to prevent injury and/or muscular pain, and to help the body recover after physical activity.</p>
 
-    <p>Sportmassage is het toepassen van verschillende handgrepen op een lichaamsdeel van een sportbeoefenaar, met het doel om zo efficiënt mogelijk de lichamelijke conditie te verbeteren, te behouden en/of de nadelige gevolgen van sporten zoals bijvoorbeeld blessures volledig of deels weg te nemen.</p>
+    <p>The massage therapist applies hand techniques to specific parts of the body. These are aimed at helping to improve or maintain the sports practitioner’s physical condition, and/or to relieve any negative effects such as injuries.</p>
 
-    <p>Door deze vorm van masseren krijgt het lichaam een betere doorbloeding en stofwisseling. Doordat de spieren worden gestimuleerd worden de gevormde afvalstoffen (vocht) beter afgevoerd. De spierspanning wordt op een positieve manier beïnvloed door de afwisseling van aanspanning en ontspanning van de spieren.</p>
-    <p>Deze massagevorm heeft uiteindelijk op een gezonde manier invloed: een kortere herstelperiode, verdieping van de ademhaling, slaapbevordering en verbetering van de mentale stemming.</p>
+    <p>This form of massage helps to improve the body’s blood circulation and metabolism. The therapist stimulates the muscles, which helps to remove toxins (moisture) from the body. The therapist first applies pressure and then allows the muscle to relax. This has a positive effect on the body’s muscle tension.</p>
 
-    <h2 id="stoelmassages">Wat is Stoelmassage?</h2>
-    <p><div class="fancybox-wrapper"><a class="fancybox" href="img/stoelmassage.jpg"><img class="ie-img-shadow"  src="img/small/stoelmassage.jpg" alt="hotstone"></img><br/>+ groter</a></div>Stoelmassage, een fenomeen oorspronkelijk uit Amerika, wordt veel toegepast bij bedrijven en overheidsinstellingen. Deze Japanse drukpuntmassage werkt ter voorkoming van stress en RSI en ter bevordering van de lichamelijke en geestelijke conditie. Dit wordt bereikt door middel van een +/- 20 minuten durende massage van nek, schouders, rug, armen en handen. De behandeling ontspant en versoepelt de spieren, wat een verhoogd immuunsysteem en een betere bloedcirculatie tot gevolg heeft.</p>
+    <p>This form of massage has a positive effect on the body. It leads to shorter recovery periods, helps you to breathe more deeply, helps induce sleep and improves your mood.</p>
+
+    <h2 id="stoelmassages">What is a chair massage?</h2>
+    <p><div class="fancybox-wrapper"><a class="fancybox" href="/img/stoelmassage.jpg"><img class="ie-img-shadow"  src="/img/small/stoelmassage.jpg" alt="chair massage"></img><br/>+ enlarge</a></div>The phenomenon known as ‘chair massage’ originated in the United States and is widely applied in companies and government institutions. This Japanese pressure point massage is used to help prevent stress and RSI, and to improve your physical and mental condition. This is achieved via a twenty-minute massage whereby the person’s neck, shoulders, back, arms and hands are treated. The treatment helps to relax muscles and makes them supple, resulting in a better immune system and blood circulation.</p>
+
     <p>De massage gebeurt op een speciale massagestoel. Op deze manier bent u het beste ontspannen en kunnen uw rug, nek, armen en handen goed gemasseerd worden en eventuele klachten verholpen worden. De stoelmassage is voor iedereen geschikt en is laagdrempelig. U kunt uw kleren aanhouden en u kunt zo weer verder met uw dagelijkse bezigheden. </p>
 
-    <h2 id="hotstone">Wat is Hotstone massage?</h2>
-    <p><div class="fancybox-wrapper"><a class="fancybox" href="img/hotstone.jpg"><img class="ie-img-shadow" id="hotstone" src="img/small/hotstone.jpg" alt="hotstone"></img><br/>+ groter</a></div>Hotstone massage is een vorm van massage waarbij gebruik gemaakt wordt van verwarmde stenen die op het lichaam worden gelegd. De vulkanische basaltstenen hebben een aardende werking en geven energie. De bloedsomloop verbetert, waardoor gifstoffen uit het lichaam verwijderd worden en zelfs diepliggende organen worden gereinigd.</p>
-    <p>De weldadige warmte werkt ontspannen en heilzaam op spieren, botten en de zenuwbanen, waardoor energie door het hele lichaam gaat stromen. Steeds worden tijdens de behandeling een aantal stenen weggehaald en wordt dat deel van het lichaam met olie ingewreven en met de hete stenen gemasseerd.</p>
-    <p>Hotstone massage helpt om spanningen af te voeren, geeft rust en evenwicht en helpt om in balans te komen.</p>
-    <p>Hotstone kan alleen geboekt worden voor 60 minuten.</p>
+    <h2 id="hotstone">What is a hot stone massage?</h2>
+    <p><div class="fancybox-wrapper"><a class="fancybox" href="/img/hotstone.jpg"><img class="ie-img-shadow" id="hotstone" src="/img/small/hotstone.jpg" alt="hotstone"></img><br/>+ groter</a></div>Hot stone massage is a form of massage whereby heated stones are placed on the body. Volcanic basalt stones have an ‘earthing’ effect and give energy. This helps to improve blood circulation, removes toxins from the body and even helps to cleanse organs.</p>
+
+    <p>The heat that is generated by the stones has a relaxing and therapeutic effect on the body’s muscles, bones and nerves. This causes energy to flow throughout the body. During treatment,  one or more stones will be removed and this area of the body is then rubbed with oil and massaged with the hot stones.</p>
+
+    <p>Hot stone massage helps to relieve tension, gives you a feeling of tranquillity and helps you to restore balance.</p>
+
+    <p>Hot stone massage treatment is only available as a 60-minute session.</p>
   </story>
 </page>
