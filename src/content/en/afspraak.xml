@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<page>
+  <title>Afspraak maken</title>
+  <description>Welke voorbereidingen kan je treffen voordat je naar een afspraak komt?</description>
+  <intro></intro>
+  <story>
+    <h1>Afspraak maken</h1>
+
+    <p class="address">Bel of mail<br/>
+    070 - 888 26 07<br/>
+    06-48 38 79 14<br/>
+    <a href='mailto:info@balancebyhands.nl'>info@balancebyhands.nl</a><br/><br/>
+    <span class="warning">
+      GEEN SEX OF EROTIEK
+    </span>
+    </p>
+
+    <h2>Voorbereiding</h2>
+    <p>Uw voorbereiding kan zorgen voor een beter resultaat! Hieronder een aantal stappen op een rijtje.</p>
+    <ul>
+      <li>Van tevoren thuis een douche nemen ter bevordering van de hygiëne.</li>
+
+      <li>Kom niet te gehaast voor een behandeling op een afspraak, maak bijvoorbeeld vooraf een wandeling van een paar minuten.</li>
+
+      <li>Uw telefoon uitzetten voordat u de massagepraktijk binnenkomt, zodat u niet wordt gestoord tijdens de behandeling.</li>
+
+    </ul>
+      <p>Na afloop krijgt u de gelegenheid om even bij te komen, eventueel een glas water drinken voor een betere afvoer van afvalstoffen.</p>
+
+      <h2>Annuleren van uw afspraak</h2>
+
+      <p>Als u verhinderd bent voor uw afspraak, geef dit dan zo spoedig mogelijk door.
+      Annueren uiterlijk <em>24 uur</em> van tevoren. Als u niet <em>24 uur</em> van tevoren annuleert, ben ik helaas genoodzaakt de kosten alsnog in rekening te brengen. Uitzonderingen hierop worden in onderling overleg besproken.</p>
+
+      <h2>Betalen</h2>
+      <p>Alle behandelingen graag contant en bij voorkeur gepast betalen. Ik beschik niet over pin- of creditcardfaciliteiten.</p>
+  </story>
+</page>

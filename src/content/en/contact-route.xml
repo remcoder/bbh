@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<page>
+  <title>Contact &amp; Route</title>
+  <description>Adresgegevens en kaart van de omgeving</description>
+  <story>
+    <div>
+    <h1>Contact &amp; Route</h1>
+    <div class="address">
+      070 – 888 26 07<br/>
+      06 – 48 38 79 14<br/>
+      <a href='mailto:info@balancebyhands.nl'>info@balancebyhands.nl</a><br/>
+      Van Barbansonstraat 66<br/>
+      2274 SP  Voorburg<br/>
+      ING 4805087<br/>
+      KvK 27379732<br/>
+      <br/>
+      <span class="warning">  
+        GEEN SEX OF EROTIEK
+      </span>
+    </div>
+    
+    <h2>Kaart</h2>
+
+    <iframe id="map" class="map" width="400" height="400" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="http://maps.google.com/maps?f=q&amp;source=s_q&amp;hl=nl&amp;geocode=&amp;q=van+barbansonstraat+66+2274+SP+Voorburg&amp;sll=52.05819,4.33239&amp;sspn=0.114203,0.302811&amp;ie=UTF8&amp;hq=&amp;hnear=Van+Barbansonstraat+66,+2274+Voorburg,+Leidschendam-Voorburg,+South+Holland,+The+Netherlands&amp;ll=52.079664,4.352388&amp;spn=0.025319,0.054932&amp;z=14&amp;iwloc=A&amp;output=embed"></iframe>
+
+    </div>
+    <h2>Bereikbaarheid</h2>
+    <p>
+    Balance By Hands is ook vanuit de regio (Den Haag, Rijswijk, Leidschendam, Nootdorp…) <b>uitstekend bereikbaar</b>.<br/>
+    De Van Barbansonstraat ligt op een steenworp afstand van de A12.<br/>
+    <br/>
+        <a class="button"  href="http://maps.google.com/maps?f=d&amp;source=s_q&amp;hl=nl&amp;geocode=&amp;q=van+barbansonstraat+66+2274+SP+Voorburg&amp;sll=52.05819,4.33239&amp;sspn=0.114203,0.302811&amp;ie=UTF8&amp;hq=&amp;hnear=Van+Barbansonstraat+66,+Voorburg,+Leidschendam-Voorburg,+Zuid-Holland,+Nederland&amp;ll=52.079664,4.352388&amp;spn=0.021099,0.034332&amp;z=14&amp;iwloc=A&amp;daddr=Van+Barbansonstraat+66,+2274+Voorburg,+Nederland">plan uw route</a>
+    </p>
+    <h2>Parkeren</h2>
+    <p>In de Van Barbansonstraat kunt u maximaal 2 uur parkeren met een blauwe parkeerschijf.</p>
+  </story>
+</page>

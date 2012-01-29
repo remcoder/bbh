@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<page>
+  <title>Massages</title>
+  <description>Alle soorten massages op een rijtje.</description>
+  <img src="img/small/ontspanning.jpg" alt="massage"/>
+  <quote>To keep the body in good health
+  is a duty&#x2026;<br/> otherwise we shall not
+  be able to keep our mind strong<br/>
+  and clear</quote>
+  <quotee>Buddha</quotee>
+  <story>
+    <h1>Massages</h1>
+    <h2>Wat is klassieke ontspanningsmassage?</h2>
+
+    <p>Een klassieke ontspanningsmassage is een moment voor uzelf. Het maakt u bewust van de spanningen in uw lichaam. In de praktijk zijn er verschillende termen die gebruikt worden, zoals normale massage, ontspanningsmassage en therapeutische massage.</p>
+
+    <p>Deze vorm van massage is geschikt voor de bestrijding van fysieke (of psychische) spannings- en pijnklachten (stress, nekpijn, rugpijn, spierpijn), maar ook voor het onderhoud en balans van een gezond lichaam.</p>
+    <p>De strijkingen en knedingen van deze vorm van massage stimuleren de doorbloeding van de huid, het onderliggende bindweefsel en het spierweefsel. Hierdoor worden afvalstoffen sneller afgevoerd en kunnen voedingsstoffen diep in het weefsel doordringen.</p>
+    <p>De massage heeft in zijn geheel een heerlijke ontspannende werking op lichaam en geest.</p>
+
+    <p>Desgewenst kan de massage steviger uitgevoerd worden (vraag dan naar een ‘stevige’ massage, ook wel actieve massage genoemd).</p>
+
+
+
+    <h2 id="sportmassages">Wat is Sportmassage?</h2>
+
+    <p><div class="fancybox-wrapper"><a class="fancybox" href="img/sport.jpg"><img class="ie-img-shadow" src="img/small/sport.jpg" alt="hotstone"></img><br/>+ groter</a></div>
+    Sportmassage is een vorm van massage ter preventie van blessures en/of spierpijn en ter bevordering van herstel na inspanning.</p>
+
+    <p>Sportmassage is het toepassen van verschillende handgrepen op een lichaamsdeel van een sportbeoefenaar, met het doel om zo efficiënt mogelijk de lichamelijke conditie te verbeteren, te behouden en/of de nadelige gevolgen van sporten zoals bijvoorbeeld blessures volledig of deels weg te nemen.</p>
+
+    <p>Door deze vorm van masseren krijgt het lichaam een betere doorbloeding en stofwisseling. Doordat de spieren worden gestimuleerd worden de gevormde afvalstoffen (vocht) beter afgevoerd. De spierspanning wordt op een positieve manier beïnvloed door de afwisseling van aanspanning en ontspanning van de spieren.</p>
+    <p>Deze massagevorm heeft uiteindelijk op een gezonde manier invloed: een kortere herstelperiode, verdieping van de ademhaling, slaapbevordering en verbetering van de mentale stemming.</p>
+
+    <h2 id="stoelmassages">Wat is Stoelmassage?</h2>
+    <p><div class="fancybox-wrapper"><a class="fancybox" href="img/stoelmassage.jpg"><img class="ie-img-shadow"  src="img/small/stoelmassage.jpg" alt="hotstone"></img><br/>+ groter</a></div>Stoelmassage, een fenomeen oorspronkelijk uit Amerika, wordt veel toegepast bij bedrijven en overheidsinstellingen. Deze Japanse drukpuntmassage werkt ter voorkoming van stress en RSI en ter bevordering van de lichamelijke en geestelijke conditie. Dit wordt bereikt door middel van een +/- 20 minuten durende massage van nek, schouders, rug, armen en handen. De behandeling ontspant en versoepelt de spieren, wat een verhoogd immuunsysteem en een betere bloedcirculatie tot gevolg heeft.</p>
+    <p>De massage gebeurt op een speciale massagestoel. Op deze manier bent u het beste ontspannen en kunnen uw rug, nek, armen en handen goed gemasseerd worden en eventuele klachten verholpen worden. De stoelmassage is voor iedereen geschikt en is laagdrempelig. U kunt uw kleren aanhouden en u kunt zo weer verder met uw dagelijkse bezigheden. </p>
+
+    <h2 id="hotstone">Wat is Hotstone massage?</h2>
+    <p><div class="fancybox-wrapper"><a class="fancybox" href="img/hotstone.jpg"><img class="ie-img-shadow" id="hotstone" src="img/small/hotstone.jpg" alt="hotstone"></img><br/>+ groter</a></div>Hotstone massage is een vorm van massage waarbij gebruik gemaakt wordt van verwarmde stenen die op het lichaam worden gelegd. De vulkanische basaltstenen hebben een aardende werking en geven energie. De bloedsomloop verbetert, waardoor gifstoffen uit het lichaam verwijderd worden en zelfs diepliggende organen worden gereinigd.</p>
+    <p>De weldadige warmte werkt ontspannen en heilzaam op spieren, botten en de zenuwbanen, waardoor energie door het hele lichaam gaat stromen. Steeds worden tijdens de behandeling een aantal stenen weggehaald en wordt dat deel van het lichaam met olie ingewreven en met de hete stenen gemasseerd.</p>
+    <p>Hotstone massage helpt om spanningen af te voeren, geeft rust en evenwicht en helpt om in balans te komen.</p>
+    <p>Hotstone kan alleen geboekt worden voor 60 minuten.</p>
+  </story>
+</page>

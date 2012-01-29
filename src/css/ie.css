@@ -1,0 +1,36 @@
+body {
+  z-index: -2; /* behind the background */
+	xfilter:  progid:DXImageTransform.Microsoft.gradient(GradientType=0,startColorstr='#bb99dd', endColorstr='#9966aa'); /* IE6 & IE7 */
+	x-ms-filter: "progid:DXImageTransform.Microsoft.gradient(GradientType=0,startColorstr='#bb99dd', endColorstr='#9966aa')"; /* IE8 */
+}
+
+.background
+{
+	left: 0;
+	xzoom:1;
+}
+
+.bubble {
+  filter: progid:DXImageTransform.Microsoft.Shadow(color='#666666', Direction=145, Strength=6);
+	-ms-filter: "progid:DXImageTransform.Microsoft.Shadow(color='#666666', Direction=145, Strength=6)";
+}
+
+.contact-route .bubble
+{
+	filter: none;
+	-ms-filter: "none";
+	
+	border-right: 4px solid grey;
+	border-bottom: 4px solid grey;
+}
+
+.address, .map, .comments
+{
+  border: 1px solid grey;
+}
+
+.photo-inline, .ie-img-shadow
+{
+	filter: progid:DXImageTransform.Microsoft.Shadow(color='#666666', Direction=145, Strength=6);
+	-ms-filter: "progid:DXImageTransform.Microsoft.Shadow(color='#666666', Direction=145, Strength=6)";
+}

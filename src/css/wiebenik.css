@@ -1,0 +1,19 @@
+.photo img
+{
+    height: 200px;
+    width: auto;
+    
+    /* compenasate for the borders */
+    position:relative;
+    top:-10px;
+}
+
+.educational-logo
+{
+  text-align: center;
+}
+
+.educational-logo img {
+  vertical-align: middle;
+  border: 2px solid #CCC;
+}

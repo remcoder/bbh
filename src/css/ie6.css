@@ -1,0 +1,25 @@
+body
+{
+	background: #b9d;
+}
+
+.background
+{
+	display:none;
+	left: 0;
+}
+
+.nav
+{
+	position:absolute;
+}
+
+.page
+{
+	background-image: none;
+}
+
+.page-header .intro
+{
+	width: 40%;
+}

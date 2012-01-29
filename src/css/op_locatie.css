@@ -1,0 +1,37 @@
+.page
+{
+  background-image: none;
+}
+
+.prices
+{
+  width:100%;
+
+  border-collapse:collapse;
+  font-size: 90%;
+}
+
+.prices tr
+{
+  text-align: left;
+  background-color: #FFEFE4;
+}
+
+.prices th
+
+{
+  background-color: #DFCFC4;
+}
+
+.prices td,
+.prices th
+{
+  text-align: left;
+  padding: 1px 5px 1px 5px;
+}
+
+.note
+{
+  font-size:80%;
+  color: #666;
+}
