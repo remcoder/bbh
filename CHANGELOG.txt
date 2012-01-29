@@ -1,0 +1,52 @@
+2012-01-28
+----------
+Taalswitch knopje met vlaggetje om de huidige pagina te switchen tussen nl/en.
+
+2012-01-15
+----------
+Meertaligheid dmv 2 sets pagina's.
+
+2011-12-27
+----------
+Verloren content en code bij elkaar geraapt van live site en backups.
+Build script gerefactored.
+
+2011-07-13
+----------
+Nieuwe foto's geplaatst op homepage en massages pagina.
+Lightbox toegevoegd om de inline plaatjes te vergroten.
+resample.sh script toegevoegd om thumbs te genereren
+
+2011-04-17
+----------
+Facebook 'like' knopje verplaatst naar glassbar bovenaan de pagina.
+
+Teksten aangepast obv de correcties vna Johan.
+
+2011-04-17
+----------
+Contact & Route:
+tekst over bereikbaarheid toegevoegd, inclusief knop om direct je route te berekenen met Google Maps
+adresgegevens iets mooier gemaakt. Steek nu duidelijker af tegen de rest v/d pagina.
+waarschuwing over geen sex/erotiek ingekort en rood gemaakt
+
+Afspraak maken
+adresgegevens iets mooier gemaakt. Steek nu duidelijker af tegen de rest v/d pagina.
+waarschuwing over geen sex/erotiek ingekort en rood gemaakt
+
+SEO aanpassingen
+Paginatitels aangepast. Dit zijn niet de titels in de pagina maar de titels die in de bovenrand van het window staan. Dit zijn namelijk ook de titels die Google leest. Ik heb ze ingekort en de naam v/d pagina staat nu vooraan ipv achteraan.
+Alle plaatjes hebben onder water een beschrijving zodat Google weet waar het plaatje over gaat. (zie je als bezoeker niks van)
+Alle titels op de pagina heb ik met een andere code gedaan zodat Google ze hoger in schat. (zie je als bezoeker niks van)
+
+Fading achtergrond plaatje (boom)
+initiele achtergrond kleur aangepast. Was zwart. Is nu grijsblauw. Dit is mooier met fading omdat deze grijsblauw voorkomt in het plaatje.
+achtergrond plaatje (boom) fade nu altijd langzaam in.
+
+Ronde hoekjes in Internet Explorer 7/8
+2 verschillende methoden uitgeprobeerd om ronde hoekjes te krijgen in IE maar dit is niet gelukt. Beide technieken zorgen voor andere problemen. Meer valt er niet te proberen. Ronde hoekjes in IE lukken niet (zonder dat het onevenredig veel moeite zou gaan kosten).
+
+Facebook
+'like' knopje ingebouwd. Wordt onderaan elk pagina getoond. Er staat naast hoeveel mensen al op het knopje hebben gedrukt en eventueel zie je welke Facebookvrienden dat waren.
+Nieuwe reacties pagina gebouwd obv Facebook. Facebook levert een gratis reactie module die je op je site kan plakken. Bezoekers kunnen met hun Facebook account (of Yahoo) inloggen om een bericht achter te laten. Ze kunnen de optie aanvinken om het bericht ook op hun Facebook pagina te laten verschijnen. Dat laaste is een leuke feature want zo maak je meteen reclame op Facebook dmv reacties van klanten. Viral marketing FTW!
+
