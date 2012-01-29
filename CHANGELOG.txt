@@ -1,3 +1,7 @@
+2012-01-29
+----------
+Engelse teksten toegoevoegd en enkele vertalingsissues opgelost.
+
 2012-01-28
 ----------
 Taalswitch knopje met vlaggetje om de huidige pagina te switchen tussen nl/en.
