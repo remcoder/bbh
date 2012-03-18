@@ -418,3 +418,7 @@ a.icon {
 .linkedin-icon {
   background-image: url('/img/icons/linkedin.jpg');
 }
+
+.smaller {
+  font-size:80%;
+}
