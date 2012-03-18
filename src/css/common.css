@@ -395,3 +395,26 @@ h2
 {
   opacity: 1;
 }
+
+a.icon {
+  display: inline-block;
+  width: 24px;
+  height: 24px;
+}
+
+.social-media {
+  margin-right: 6px;
+  margin-top: 5px;
+}
+
+.twitter-icon {
+  background-image: url('/img/icons/twitter.jpg');
+}
+
+.facebook-icon {
+  background-image: url('/img/icons/facebook.jpg');
+}
+
+.linkedin-icon {
+  background-image: url('/img/icons/linkedin.jpg');
+}

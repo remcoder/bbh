@@ -50,7 +50,11 @@
             </xsl:otherwise>
           </xsl:choose>
         </li>
-
+        <li>
+          <a class="icon social-media twitter-icon" href="https://twitter.com/#!/balancebyhands"></a>
+          <a class="icon social-media facebook-icon" href="https://www.facebook.com/pages/Balance-by-Hands/140765242697494"></a>
+          <a class="icon social-media linkedin-icon" href="http://nl.linkedin.com/pub/balance-by-hands/18/618/4b3"></a>
+        </li>
       </ul>
     </div>
   </xsl:template>
