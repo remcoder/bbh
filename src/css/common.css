@@ -301,9 +301,9 @@ h2
   font-size: 20px;
   padding: 6px 15px;
 
-  box-shadow: 0 0 10px #999;
-  -moz-box-shadow: 0px 0 10px #999;
-  -webkit-box-shadow: 0 0 10px #999;
+  box-shadow: 0 0 10px black;
+  -moz-box-shadow: 0px 0 10px black;
+  -webkit-box-shadow: 0 0 10px black;
 
   border-radius: 15px;
   -moz-border-radius: 15px;
@@ -421,4 +421,14 @@ a.icon {
 
 .smaller {
   font-size:80%;
+}
+
+form input, form textarea
+{
+  font-size: 15px;
+}
+
+form label {
+  display: inline-block;
+  width:100px;
 }

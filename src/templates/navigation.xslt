@@ -18,16 +18,19 @@
       <page id="magnetiseren" title='Magnetiseren' title_en='Magnetism therapy' />
       <page id="op_locatie" title='Massage aan huis' title_en='Massage at home' />
       <page id="bedrijfsstoelmassage" title='Bedrijfsstoelmassage' title_en='On-site chair massage' />
+      <!-- <page id="cadeaubon" title='Cadeaubon' /> -->
       <page id="tarieven" title='Tarieven' title_en="Rates" />
       <page id="wiebenik" title='Wie ben ik?' title_en='Who am I?' />
       <page id="afspraak" title='Afspraak maken' title_en='Make an appointment' />
-      <page id="contact-route" title='Contact &amp; Route' title_en='Contact info' />
+      <page id="email" title='Contact' />
+      <page id="contact-route" title='Adresgegevens' title_en='Address info' />
+      <page id="links" title="Collega specialisten" title_en="Fellow specialists" />
       <page id="reacties2" title='Reacties' title_en='Feedback' />
+
+      <!-- <page id="emailform" title='Emailformulier' title_en='Email form'/> -->
     </sitemap>
   </xsl:variable>
   <xsl:template mode="navigation" match="/page" >
-
-
 
     <div class='nav bubble'>
       <ul>

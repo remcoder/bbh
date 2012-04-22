@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<page>
+  <title>Contactformulier</title>
+  <description>Contactformulier</description>
+  <story>
+    <div>
+    <h1>Contactformulier</h1>
+    <p>Heeft u vragen of opmerkingen? Stuur mij dan een bericht. Ik zal zo spoedig mogelijk reageren.</p>
+    <form method="post" action="http://www.balancebyhands.nl/cgi-bin/FormMail.pl">
+<input type="hidden" name="recipient" value="info@balancebyhands.nl"></input>
+<input type="hidden" name="subject" value="[BBH: Contactformulier]"></input>
+<input type="hidden" name="redirect" value="/email_verzonden.html"></input>
+
+<input TYPE="TEXT" VALUE="" placeholder="..uw naam.." ></input><br/>
+<input TYPE="TEXT" placeholder="..uw email.." NAME="Mail"></input><br/>
+<TEXTAREA name="Comment" placeholder="..Typ hier uw bericht.." COLS="40" ROWS="7"></TEXTAREA><br/>
+
+<!-- <input TYPE="Reset" VALUE="Reset"></input> -->
+<input class="button" TYPE="Submit" VALUE="versturen"></input>
+</form>
+</div>
+
+  </story>
+</page>

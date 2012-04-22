@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<page>
+  <title>Email verzonden</title>
+  <description>Email verzonden</description>
+  <story>
+    <script>
+      if (document.location.href.indexOf("cgi-bin") != -1)
+        document.location = "/email_verzonden.html";
+    </script>
+
+    <h1>Email verzonden</h1>
+    
+    <div style="text-align: center;">
+    <a href="/">← terug naar de homepage</a>
+    </div>
+  </story>
+</page>

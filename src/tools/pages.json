@@ -3,11 +3,14 @@
     [ "afspraak",
       "bedrijfsstoelmassage",
       "contact-route",
+      "email",
+      "email_verzonden",
       "index",
+      "links",
       "magnetiseren",
       "massages",
       "op_locatie",
       "reacties2",
       "tarieven",
-      "wiebenik" ]
+      "wiebenik"]
 }

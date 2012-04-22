@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<page>
+  <title>Email has been sent</title>
+  <description>Email has been sent</description>
+  <story>
+    <script>
+      if (document.location.href.indexOf("cgi-bin") != -1)
+        document.location = "/en/email_verzonden.html";
+    </script>
+    <h1>Your email has been sent!</h1>
+    
+    <div style="text-align: center;">
+    <a href="/en">← back to the homepage</a>
+    </div>
+  </story>
+</page>
