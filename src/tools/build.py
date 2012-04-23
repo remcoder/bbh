@@ -74,6 +74,7 @@ def createPage(page_id):
       errors+=1
       print e
 
+print "new build started."
 
 print "cleaning..."
 clean()
