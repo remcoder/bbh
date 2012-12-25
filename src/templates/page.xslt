@@ -93,6 +93,10 @@
         </xsl:if>
 
         <script src="http://ajax.googleapis.com/ajax/libs/jquery/1.6.4/jquery.min.js"></script>
+        <script src="/js/jquery.placeholder.min.js"></script>
+        <script type="text/javascript">
+          $("input,textarea").placeholder();          
+        </script>
         <script>
           var $background = $('.background');
           var img = $background.children("img")[0];
