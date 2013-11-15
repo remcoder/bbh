@@ -49,7 +49,7 @@
         <div class="button_holder bar">
           <a href="#" class="close-button" ></a>
           <div class="ilike">
-            <iframe id="fb_like"   src="http://www.facebook.com/plugins/like.php?href=balancebyhands.nl&amp;layout=standard&amp;show_faces=false&amp;width=450&amp;action=like&amp;font&amp;colorscheme=light&amp;height=35" scrolling="no" frameborder="0" style="border:none; overflow:hidden; width:450px; height:35px;" allowTransparency="true"></iframe>
+            <iframe id="fb_like" src="http://www.facebook.com/plugins/like.php?href=http://balancebyhands.nl&amp;layout=standard&amp;show_faces=false&amp;width=450&amp;action=like&amp;font&amp;colorscheme=light&amp;height=35" scrolling="no" frameborder="0" style="border:none; overflow:hidden; width:450px; height:35px;" allowTransparency="true"></iframe>
           </div>
 
         </div>
