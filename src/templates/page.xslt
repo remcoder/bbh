@@ -94,25 +94,22 @@
 
         <script src="http://ajax.googleapis.com/ajax/libs/jquery/1.6.4/jquery.min.js"></script>
         <script src="/js/jquery.placeholder.min.js"></script>
+        <script src="/js/jquery.fancybox-1.3.4.pack.js" type="text/javascript"></script>
         <script type="text/javascript">
           $("input,textarea").placeholder();          
-        </script>
-        <script>
+          
+          // fade in background image
           var $background = $('.background');
           var img = $background.children("img")[0];
 
           img.onload = function(){ $background.fadeIn(3000); };
           img.src= "/img/boom.jpg";
-        </script>
-
-        <script>
+          
+          // Facebook bar
           var $bar = $(".bar");
           $(".close-button").click(function() { $bar.hide(); });
           setTimeout(function () { $bar.fadeIn(1000); }, 5000);
-        </script>
-
-        <script src="/js/jquery.fancybox-1.3.4.pack.js" type="text/javascript"></script>
-        <script type="text/javascript">
+        
           $(document).ready(function() {
             $("a.fancybox").fancybox({
               'hideOnContentClick': true,
@@ -129,7 +126,8 @@
         try {
           var pageTracker = _gat._getTracker("UA-16247626-1");
           pageTracker._trackPageview();
-        } catch(err) {}</script>
+        } catch(err) {}
+      </script>
       </body>
     </html>
 
