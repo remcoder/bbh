@@ -107,8 +107,8 @@
 
         <script>
           var $bar = $(".bar");
-          $(".close-button").click(function() { $bar.slideUp(); });
-          setTimeout(function () { $bar.slideDown(); }, 3000);
+          $(".close-button").click(function() { $bar.hide(); });
+          setTimeout(function () { $bar.fadeIn(1000); }, 5000);
         </script>
 
         <script src="/js/jquery.fancybox-1.3.4.pack.js" type="text/javascript"></script>
